@@ -18,15 +18,17 @@ A robust, lightweight REST API built with Flask for efficient task management. F
 
 ## 📋 Table of Contents
 
-- [Quick Start](#quick-start)
-- [API Documentation](#api-documentation)
-- [Installation](#installation)
-- [Usage Examples](#usage-examples)
-- [Testing](#testing)
-- [Architecture](#architecture)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+- [Quick Start](#️-quick-start)
+- [API Documentation](#-api-documentation)
+- [Installation](#️-installation)
+- [Usage Examples](#-usage-examples)
+- [Testing](#-testing)
+- [Architecture](#️-architecture)
+- [Configuration](#️-configuration)
+- [Deployment](#-deployment)
+- [Future Enhancements](#-future-enhancements)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🏃‍♂️ Quick Start
 
@@ -239,6 +241,10 @@ Run the comprehensive test suite:
 ```bash
 python test_api.py
 ```
+
+### Manual Testing
+
+See `API_TESTING_GUIDE.md` for detailed testing instructions and examples.
 
 ## 🏗️ Architecture
 
